@@ -1,16 +1,31 @@
 # Potamides
 
 ```{toctree}
-:maxdepth: 2
+:maxdepth: 1
 :hidden:
-
+:caption: 📚 Guides
 ```
+
+```{toctree}
+:maxdepth: 1
+:hidden:
+:caption: 🤝 Interoperability
+:glob:
+
+interop/*
+```
+
 
 ```{include} ../README.md
 :start-after: <!-- SPHINX-START -->
 ```
 # 🚀 Get Started
 Potmides is ... in [JAX][jax].
+
+## Quickstart
+
+### Fitting the Stream
+
 
 ## Indices and tables
 
