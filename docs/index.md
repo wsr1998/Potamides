@@ -4,7 +4,7 @@
 :maxdepth: 1
 :hidden:
 :caption: 📚 Guides
-guides/streamfitting.md
+guides/stream_fitting.md
 ```
 
 
