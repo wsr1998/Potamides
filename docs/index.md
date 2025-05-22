@@ -13,7 +13,7 @@ guides/stream_fitting.md
 ```
 
 # 🚀 Get Started
-Potmides is ... in [JAX][jax].
+Potamides is ... in [JAX][jax].
 
 ## Quickstart
 
