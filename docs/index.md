@@ -1,4 +1,4 @@
-# streamcurvature
+# Potamides
 
 ```{toctree}
 :maxdepth: 2
@@ -9,6 +9,8 @@
 ```{include} ../README.md
 :start-after: <!-- SPHINX-START -->
 ```
+# 🚀 Get Started
+Potmides is ... in [JAX][jax].
 
 ## Indices and tables
 
