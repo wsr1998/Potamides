@@ -8,13 +8,10 @@ sd_hide_title: true
 :maxdepth: 1
 :hidden:
 :caption: 📚 Guides
+
 guides/stream_fitting.md
 ```
 
-
-```{include} ../README.md
-:start-after: <!-- SPHINX-START -->
-```
 # 🚀 Get Started
 Potmides is ... in [JAX][jax].
 
